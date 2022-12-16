@@ -1,0 +1,63 @@
+header {
+    Font-family: 'EB Garamond', serif;
+    Font-size: 5em;
+    Color: crimson;
+    Margin: auto; 
+}
+
+header img{
+    height: 150px;
+    width: 170px;
+    vertical-align: middle;
+}
+
+body {
+    background-color: rgb(241, 190, 198);
+    margin: 0;
+    color: crimson;
+    horizontal-align: middle;
+}
+
+.Activities {
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    font-size: 2em
+    vertical-align: middle;
+    border: 5px outset crimson;
+    background-color: white;
+    text-align: center; 
+}
+
+.Proposals {
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    font-size: 2em
+    vertical-align: middle;
+    border: 5px outset crimson;
+    background-color: white;
+    text-align: center; 
+}
+
+.Statistics {
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    font-size: 3em
+    vertical-align: middle;
+    border: 5px outset crimson;
+    background-color: white;
+    text-align: center; 
+}
+
+.tableauPlaceholder {
+    margin:auto; 
+}
+
+.Map {
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    font-size: 5em
+    vertical-align: middle;
+    border: 5px outset crimson;
+    background-color: white;
+    text-align: center;
+}
